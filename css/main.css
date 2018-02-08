@@ -11,8 +11,15 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+
+  font-family: Georgia, serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
 }
